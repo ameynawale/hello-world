@@ -1,3 +1,3 @@
 class FirstClass {
-    
+    int b;
 }
